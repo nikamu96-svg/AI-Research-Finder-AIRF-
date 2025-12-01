@@ -1,17 +1,20 @@
 [
-    {
-        "judul": "Efisiensi dan Efektivitas Pelaksanaan E-Procurement melalui LPSE",
-        "tahun": 2023,
-        "peneliti": "Mahasiswa Politeknik Negeri Bengkalis"
-    },
-    {
-        "judul": "Analisis Risiko Fraud dalam Proses Pengadaan Barang dan Jasa",
-        "tahun": 2024,
-        "peneliti": "Mahasiswa Politeknik Negeri Bengkalis"
-    },
-    {
-        "judul": "Penerapan E-Katalog pada UKPBJ Kabupaten Bengkalis",
-        "tahun": 2022,
-        "peneliti": "Mahasiswa Polbeng"
-    }
+  {
+    "judul": "Efisiensi dan Efektivitas Pelaksanaan E-Procurement melalui LPSE",
+    "prodi": "Administrasi Bisnis",
+    "tahun": 2023,
+    "peneliti": "Rizky Maulana"
+  },
+  {
+    "judul": "Analisis Sistem Informasi Pengadaan Barang/Jasa di UKPBJ",
+    "prodi": "Teknik Informatika",
+    "tahun": 2024,
+    "peneliti": "Siti Aisyah"
+  },
+  {
+    "judul": "Implementasi E-Katalog pada Pemerintah Daerah Kabupaten Bengkalis",
+    "prodi": "Akuntansi",
+    "tahun": 2022,
+    "peneliti": "Dedi Saputra"
+  }
 ]

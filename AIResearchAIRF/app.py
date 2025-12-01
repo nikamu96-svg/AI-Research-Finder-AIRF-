@@ -20,7 +20,7 @@ async function searchJudul() {
         resultList.innerHTML += `
             <div class="result-item">
                 <b>${item.judul}</b><br>
-                <small>${item.tahun} — ${item.peneliti}</small>
+                <small>${item.tahun} - ${item.peneliti}</small>
             </div>
         `;
     });

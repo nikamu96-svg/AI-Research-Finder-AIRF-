@@ -1,20 +1,121 @@
 [
-  {
-    "judul": "Efisiensi dan Efektivitas Pelaksanaan E-Procurement melalui LPSE",
-    "prodi": "Administrasi Bisnis",
-    "tahun": 2023,
-    "peneliti": "Rizky Maulana"
-  },
-  {
-    "judul": "Analisis Sistem Informasi Pengadaan Barang/Jasa di UKPBJ",
-    "prodi": "Teknik Informatika",
-    "tahun": 2024,
-    "peneliti": "Siti Aisyah"
-  },
-  {
-    "judul": "Implementasi E-Katalog pada Pemerintah Daerah Kabupaten Bengkalis",
-    "prodi": "Akuntansi",
-    "tahun": 2022,
-    "peneliti": "Dedi Saputra"
-  }
+  { "id": 1, "tahun": 2023, "nama": "Andi Saputra", "judul": "Analisis Efisiensi Sistem E-Procurement pada UKPBJ Kabupaten Bengkalis" },
+  { "id": 2, "tahun": 2023, "nama": "Rina Marlina", "judul": "Evaluasi Implementasi E-Katalog pada Pengadaan Barang dan Jasa Daerah" },
+  { "id": 3, "tahun": 2022, "nama": "Dedi Kurniawan", "judul": "Sistem Informasi Monitoring Proyek Berbasis Web pada Dinas PU" },
+  { "id": 4, "tahun": 2024, "nama": "Fitri Wulandari", "judul": "Analisis Efektivitas LPSE dalam Meningkatkan Transparansi Pengadaan" },
+  { "id": 5, "tahun": 2021, "nama": "Rahmat Hidayat", "judul": "Pengembangan Aplikasi Manajemen Arsip Digital Menggunakan Laravel" },
+
+  { "id": 6, "tahun": 2022, "nama": "Fauziah Ramadhani", "judul": "Rancang Bangun Sistem Informasi Inventaris Berbasis Web di Politeknik" },
+  { "id": 7, "tahun": 2024, "nama": "Tomi Pratama", "judul": "Penerapan Algoritma K-Means untuk Pengelompokan Data UMKM Bengkalis" },
+  { "id": 8, "tahun": 2023, "nama": "Siska Amelia", "judul": "Analisis User Experience pada Aplikasi E-Learning Politeknik Negeri Bengkalis" },
+  { "id": 9, "tahun": 2022, "nama": "Rudi Hartono", "judul": "Audit Sistem Informasi Menggunakan COBIT 5 pada Sistem E-Office" },
+  { "id": 10, "tahun": 2024, "nama": "Joko Ardiansyah", "judul": "Pengembangan Aplikasi Antrian Online Menggunakan Framework Flutter" },
+
+  { "id": 11, "tahun": 2023, "nama": "Dewi Anggraini", "judul": "Studi Komparatif Efisiensi Pengadaan Manual dan E-Procurement" },
+  { "id": 12, "tahun": 2021, "nama": "Fajar Nugroho", "judul": "Implementasi Metode Waterfall pada Pengembangan Sistem Penggajian" },
+  { "id": 13, "tahun": 2022, "nama": "Maya Yuliana", "judul": "Pengaruh Digitalisasi Akuntansi terhadap Kinerja UMKM Bengkalis" },
+  { "id": 14, "tahun": 2024, "nama": "Hendra Wijaya", "judul": "Rancang Bangun Sistem Tracking Barang Berbasis QR Code" },
+  { "id": 15, "tahun": 2023, "nama": "Lisa Putri", "judul": "Penerapan Metode SAW untuk Menentukan Supplier Terbaik" },
+
+  { "id": 16, "tahun": 2022, "nama": "Ridho Pranata", "judul": "Sistem Informasi Pendaftaran Magang Online pada Politeknik" },
+  { "id": 17, "tahun": 2024, "nama": "Nurul Aini", "judul": "Analisis Faktor Keamanan pada Sistem E-Procurement Pemerintah Daerah" },
+  { "id": 18, "tahun": 2021, "nama": "Bayu Rahman", "judul": "Pengembangan Aplikasi Absensi Online Berbasis GPS" },
+  { "id": 19, "tahun": 2023, "nama": "Wahyu Irawan", "judul": "Sistem Pendukung Keputusan Penerimaan Beasiswa Menggunakan TOPSIS" },
+  { "id": 20, "tahun": 2024, "nama": "Lilis Handayani", "judul": "Analisis Efisiensi E-Katalog dalam Menekan Biaya Pengadaan" },
+
+  { "id": 21, "tahun": 2023, "nama": "Hani Atika", "judul": "Penerapan Chatbot Informasi Akademik Menggunakan NLP" },
+  { "id": 22, "tahun": 2021, "nama": "Tommy Saputro", "judul": "Rancang Bangun Sistem Kasir UMKM Berbasis Mobile" },
+  { "id": 23, "tahun": 2022, "nama": "Novi Permata", "judul": "Evaluasi Kepuasan Pengguna terhadap Sistem Perpustakaan Digital" },
+  { "id": 24, "tahun": 2024, "nama": "Budi Firmansyah", "judul": "Implementasi API pada Sistem Integrasi Data Akademik" },
+  { "id": 25, "tahun": 2023, "nama": "Sari Melati", "judul": "Pengaruh Promosi Digital terhadap Penjualan UMKM Kuliner" },
+
+  { "id": 26, "tahun": 2023, "nama": "Rafli Andika", "judul": "Analisis Keamanan Data pada Cloud Storage Menggunakan AES" },
+  { "id": 27, "tahun": 2021, "nama": "Felicia Nanda", "judul": "Pengembangan Sistem Donasi Online Berbasis Website" },
+  { "id": 28, "tahun": 2024, "nama": "Yudi Prasetyo", "judul": "Aplikasi Pengingat Jadwal Perkuliahan Berbasis Android" },
+  { "id": 29, "tahun": 2022, "nama": "Anisa Putri", "judul": "Sistem Informasi Pengaduan Masyarakat Menggunakan Laravel" },
+  { "id": 30, "tahun": 2024, "nama": "Rangga Maulana", "judul": "Analisis Kualitas Layanan LPSE Menggunakan Metode ServQual" },
+
+  { "id": 31, "tahun": 2023, "nama": "Yuliana Widya", "judul": "Implementasi Sistem Rekam Medis Elektronik pada Klinik" },
+  { "id": 32, "tahun": 2021, "nama": "Aldi Saputra", "judul": "Rancang Bangun Aplikasi Manajemen Keuangan Pribadi" },
+  { "id": 33, "tahun": 2022, "nama": "Salsa Azzahra", "judul": "Identifikasi Risiko Keamanan pada Sistem Informasi Akademik" },
+  { "id": 34, "tahun": 2024, "nama": "Faris Hidayat", "judul": "Pengembangan Sistem Monitoring Absensi Dosen Berbasis RFID" },
+  { "id": 35, "tahun": 2023, "nama": "Dina Kartika", "judul": "Analisis Efektivitas Dashboard Pengadaan dalam Pengambilan Keputusan" },
+
+  { "id": 36, "tahun": 2022, "nama": "Irwan Saputra", "judul": "Implementasi Payment Gateway pada Aplikasi Toko Online" },
+  { "id": 37, "tahun": 2024, "nama": "Melisa Chandra", "judul": "Rancang Bangun Aplikasi Pelaporan Pajak Daerah" },
+  { "id": 38, "tahun": 2021, "nama": "Ayu Safitri", "judul": "Sistem Informasi Pencatatan Produksi UMKM Berbasis Web" },
+  { "id": 39, "tahun": 2023, "nama": "Riko Adrian", "judul": "Evaluasi Sistem LPSE Bengkalis Menggunakan TAM" },
+  { "id": 40, "tahun": 2024, "nama": "Putra Mahendra", "judul": "Aplikasi Pencarian Judul Skripsi Menggunakan Machine Learning" },
+
+  { "id": 41, "tahun": 2023, "nama": "Nadia Oktaviani", "judul": "Analisis Faktor Kegagalan Tender pada Sistem E-Procurement" },
+  { "id": 42, "tahun": 2021, "nama": "Irma Siregar", "judul": "Pengembangan Sistem Arsip Persuratan Digital" },
+  { "id": 43, "tahun": 2022, "nama": "Zaki Firmansyah", "judul": "Rancang Bangun Sistem Penilaian Kinerja Pegawai Berbasis Web" },
+  { "id": 44, "tahun": 2024, "nama": "Sinta Ayu", "judul": "Sistem Informasi Manajemen Vendor pada Proses Pengadaan" },
+  { "id": 45, "tahun": 2023, "nama": "Rio Gunawan", "judul": "Analisis Dampak Digitalisasi Pengadaan terhadap Integritas Publik" },
+
+  { "id": 46, "tahun": 2022, "nama": "Mawar Mayang", "judul": "Aplikasi Tracking Surat Berbasis QR Code" },
+  { "id": 47, "tahun": 2024, "nama": "Rizki Ardana", "judul": "Rancang Bangun Aplikasi Peminjaman Barang Berbasis Android" },
+  { "id": 48, "tahun": 2021, "nama": "Kevin Hartono", "judul": "Sistem Informasi Manajemen Proyek Menggunakan Agile Method" },
+  { "id": 49, "tahun": 2023, "nama": "Sarah Amelia", "judul": "Evaluasi Sistem Pengadaan Berbasis Elektronik Menggunakan ISO 25010" },
+  { "id": 50, "tahun": 2024, "nama": "Fauzan Rizki", "judul": "Optimasi Pencocokan Judul Skripsi Menggunakan TF-IDF" },
+
+  { "id": 51, "tahun": 2023, "nama": "Nur Asiah", "judul": "Aplikasi Monitoring Harga Barang E-Katalog" },
+  { "id": 52, "tahun": 2021, "nama": "Rahman Husein", "judul": "Rancang Bangun Aplikasi Penilaian Dosen oleh Mahasiswa" },
+  { "id": 53, "tahun": 2022, "nama": "Bella Sari", "judul": "Pengembangan Sistem Inventory ATK Berbasis Web" },
+  { "id": 54, "tahun": 2024, "nama": "Naufal Fadillah", "judul": "Analisis Pemanfaatan Big Data dalam Proses Pengadaan" },
+  { "id": 55, "tahun": 2023, "nama": "Dita Andini", "judul": "Evaluasi Performa Server LPSE Menggunakan Tools Open Source" },
+
+  { "id": 56, "tahun": 2022, "nama": "Evan Pratama", "judul": "Sistem Pendukung Keputusan Pemilihan Vendor IT Menggunakan AHP" },
+  { "id": 57, "tahun": 2024, "nama": "Resti Utami", "judul": "Aplikasi Notifikasi Tender untuk Penyedia Barang/Jasa" },
+  { "id": 58, "tahun": 2021, "nama": "Gilang Saputra", "judul": "Rancang Bangun Sistem Pengajuan Surat Bebas Lab" },
+  { "id": 59, "tahun": 2023, "nama": "Nia Prameswari", "judul": "Analisis Faktor Penyebab Gagal Tender pada LPSE Bengkalis" },
+  { "id": 60, "tahun": 2024, "nama": "Iqbal Ramadhan", "judul": "Sistem Pendeteksi Judul Skripsi Mirip Menggunakan NLP" },
+
+  { "id": 61, "tahun": 2023, "nama": "Aulia Rahayu", "judul": "Aplikasi Rekapitulasi Belanja Pengadaan Menggunakan React" },
+  { "id": 62, "tahun": 2021, "nama": "Faizal Anwar", "judul": "Sistem Informasi Bimbingan Skripsi Berbasis Online" },
+  { "id": 63, "tahun": 2022, "nama": "Putri Rahma", "judul": "Evaluasi Kesiapan Pengguna dalam Implementasi E-Procurement" },
+  { "id": 64, "tahun": 2024, "nama": "Adit Prakoso", "judul": "Rancang Bangun Aplikasi Seminar Proposal Online" },
+  { "id": 65, "tahun": 2023, "nama": "Nabila Putri", "judul": "Pengaruh Literasi Digital terhadap Efektivitas Pengadaan" },
+
+  { "id": 66, "tahun": 2022, "nama": "Hafiz Ramdan", "judul": "Aplikasi Manajemen Vendor Berbasis Laravel" },
+  { "id": 67, "tahun": 2024, "nama": "Clara Stevani", "judul": "Implementasi Blockchain pada Sistem Pengadaan Barang" },
+  { "id": 68, "tahun": 2021, "nama": "Ridwan Hadi", "judul": "Sistem Informasi Kepegawaian Berbasis Web" },
+  { "id": 69, "tahun": 2023, "nama": "Diva Melani", "judul": "Analisis Kepuasan Penyedia Terhadap Layanan LPSE" },
+  { "id": 70, "tahun": 2024, "nama": "Reza Saputra", "judul": "Aplikasi Pencarian Skripsi Menggunakan AI Research Finder" },
+
+  { "id": 71, "tahun": 2023, "nama": "Mega Sari", "judul": "Analisis Kelemahan Sistem E-Katalog di Daerah" },
+  { "id": 72, "tahun": 2021, "nama": "Ilham Prasetyo", "judul": "Rancang Bangun Aplikasi Absensi QR Code di Politeknik" },
+  { "id": 73, "tahun": 2022, "nama": "Risa Amalia", "judul": "Sistem Pengajuan Proposal Pengadaan Berbasis Online" },
+  { "id": 74, "tahun": 2024, "nama": "Fauzan Akbar", "judul": "Analisis Penyimpangan Harga pada E-Katalog" },
+  { "id": 75, "tahun": 2023, "nama": "Suci Ramadani", "judul": "Evaluasi Integrasi LPSE dengan Sistem Keuangan Daerah" },
+
+  { "id": 76, "tahun": 2022, "nama": "Bintang Raditya", "judul": "Rancang Bangun Sistem Penjadwalan Kegiatan Kampus" },
+  { "id": 77, "tahun": 2024, "nama": "Nadya Septiani", "judul": "Sistem Pengingat Masa Berlaku Kontrak Pengadaan" },
+  { "id": 78, "tahun": 2021, "nama": "Yoga Fadli", "judul": "Pengembangan Aplikasi Monitoring Aset Daerah" },
+  { "id": 79, "tahun": 2023, "nama": "Salsa Rachma", "judul": "Analisis Keterlambatan Tender di Kabupaten Bengkalis" },
+  { "id": 80, "tahun": 2024, "nama": "Romi Wijaya", "judul": "Aplikasi Deteksi Duplikasi Judul Skripsi" },
+
+  { "id": 81, "tahun": 2023, "nama": "Ameliana Putri", "judul": "Pengaruh Transparansi LPSE terhadap Persepsi Integritas Pengadaan" },
+  { "id": 82, "tahun": 2021, "nama": "Hadi Rahmat", "judul": "Sistem Informasi Penilaian Kinerja Dosen" },
+  { "id": 83, "tahun": 2022, "nama": "Citra Nanda", "judul": "Aplikasi Layanan Pengaduan Online Berbasis Mobile" },
+  { "id": 84, "tahun": 2024, "nama": "Rio Fajar", "judul": "Rancang Bangun Sistem E-Monev Pengadaan" },
+  { "id": 85, "tahun": 2023, "nama": "Melisa Kurnia", "judul": "Analisis Kesesuaian Harga E-Katalog dengan Harga Pasar" },
+
+  { "id": 86, "tahun": 2022, "nama": "Agus Prasetyo", "judul": "Sistem Informasi Manajemen PKL Berbasis Web" },
+  { "id": 87, "tahun": 2024, "nama": "Rafida Azzahra", "judul": "Optimasi Pemilihan Penyedia Menggunakan Fuzzy Logic" },
+  { "id": 88, "tahun": 2021, "nama": "Dian Safitri", "judul": "Aplikasi Manajemen Surat Menyurat Digital" },
+  { "id": 89, "tahun": 2023, "nama": "Fahmi Rezki", "judul": "Analisis Kinerja Sistem Tender Cepat pada E-Katalog" },
+  { "id": 90, "tahun": 2024, "nama": "Wulan Sari", "judul": "Aplikasi Rekomendasi Judul Skripsi Menggunakan Machine Learning" },
+
+  { "id": 91, "tahun": 2023, "nama": "Nando Saputra", "judul": "Studi Efektivitas Pengadaan Konsolidasi" },
+  { "id": 92, "tahun": 2021, "nama": "Putri Lestari", "judul": "Sistem Informasi Kegiatan Mahasiswa Berbasis Web" },
+  { "id": 93, "tahun": 2022, "nama": "Jefri Mandala", "judul": "Rancang Bangun Sistem Penilaian Supplier" },
+  { "id": 94, "tahun": 2024, "nama": "Leni Safrina", "judul": "Evaluasi Penggunaan E-Katalog Sektoral di Daerah" },
+  { "id": 95, "tahun": 2023, "nama": "Fajar Nugraha", "judul": "Aplikasi Peringatan Jadwal Tender Berbasis Web" },
+
+  { "id": 96, "tahun": 2022, "nama": "Siska Yunita", "judul": "Analisis Pemanfaatan Teknologi Cloud untuk Sistem Pengadaan" },
+  { "id": 97, "tahun": 2024, "nama": "Rendi Kusuma", "judul": "Sistem Informasi Pengelolaan Vendor Barang dan Jasa" },
+  { "id": 98, "tahun": 2021, "nama": "Aldo Pramana", "judul": "Rancang Bangun Sistem Penjadwalan Rapat Online" },
+  { "id": 99, "tahun": 2023, "nama": "Nia Ardilla", "judul": "Analisis Faktor Penentu Keberhasilan E-Procurement di Daerah" },
+  { "id": 100, "tahun": 2024, "nama": "Rehan Putra", "judul": "Aplikasi Pencarian Judul Skripsi Berbasis AI (AIRF)" }
 ]
